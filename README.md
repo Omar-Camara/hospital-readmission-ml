@@ -357,7 +357,7 @@ XGBoost achieves highest AUC (0.678) among all models:
 
 4. **SHAP**: Lundberg, S. & Lee, S. (2017). "A Unified Approach to Interpreting Model Predictions." *NeurIPS*.
 
-5. **Cost of Readmissions**: Beauvais, B., et al. (2022). "Is the Hospital Value-Based Purchasing Program Associated with Reduced Hospital Readmissions?" *Healthcare*[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9113654/#:~:text=1%2C2,Protection%20and%20Affordable%20Care%20Act.)
+5. **Cost of Readmissions**: Beauvais, B., et al. (2022). "Is the Hospital Value-Based Purchasing Program Associated with Reduced Hospital Readmissions?" *Healthcare* [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9113654/#:~:text=1%2C2,Protection%20and%20Affordable%20Care%20Act.)
 
 ---
 
