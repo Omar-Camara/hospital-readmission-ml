@@ -382,10 +382,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **UCI Machine Learning Repository** for the dataset
-- **CIS 662 Machine Learning** course staff at Syracuse University
 - **scikit-learn, XGBoost, and SHAP developers** for excellent tools
 - **Hugging Face** for free hosting via Spaces
-- **Healthcare professionals** who provided domain insights
 
 ---
 
