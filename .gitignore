@@ -1,0 +1,53 @@
+
+# Python
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+.Python
+
+*.so
+
+# Models
+
+*.pkl
+
+*.joblib
+
+models/*.pkl
+
+# Data
+
+data/*.csv
+
+*.csv
+
+!sample_patients.csv
+
+# Environment
+
+.env
+
+.venv
+
+venv/
+
+# IDE
+
+.vscode/
+
+.idea/
+
+*.swp
+
+.DS_Store
+
+# Jupyter
+
+.ipynb_checkpoints
+
