@@ -1,4 +1,0 @@
-patient_id,age,gender,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_diagnoses,insulin,diabetesMed,primary_diagnosis
-P001,[70-80),Male,7,60,2,25,9,Up,Yes,Circulatory
-P002,[50-60),Female,3,40,1,15,7,Steady,Yes,Diabetes
-P003,[30-40),Male,2,30,0,10,4,No,No,Injury
