@@ -337,7 +337,7 @@ Performance:
 
 Improvement from Baseline:
   • Recall: 0% → {best_model['Recall']:.1%}
-  • Cost Savings: ${50000000000 - best_model['Total Cost']:,.0f}
+  • Cost Savings: ${22710000 - best_model['Total Cost']:,.0f}
 
 Key Insight:
   XGBoost's gradient boosting handles class imbalance better than
